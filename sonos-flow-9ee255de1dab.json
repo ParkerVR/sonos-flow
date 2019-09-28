@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sonos-flow",
+  "private_key_id": "9ee255de1dab07b6751b1406ee413abe6e9b105e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCIpJ8MgYh35CWN\noaRyfMxzo5jwcieasXTH5o+EEGFUyk88+HGyVQOZy3P9Mi7sVgKsg07CHvThG/+z\nLieXKmd76GZ3dy+CzmnRv/ap2FiFTuppbN/5Gk4RI1i0hXKHVnPyz2E2bhBueP3A\n+iahng2vQVRIGeczWCOxw1/QzgUO2X8AIvUicjeTCdcSHBKwH03DYa8GglwvOQPV\nN6NicEB+yt2ojJj8M7MJLEVBlqsdYxCj0hwJYJyp+q+AOCDoxXz++3YDFn+iZS1W\nRCAF83aXqeVd4wBmBLUlIeC6l4Kyj+zqa2A6ClNIFy1uOY0oukym7/OYzWFvKLqX\nzTSgMR2XAgMBAAECggEACxHAjrWzO/i//NrCfltszQgzD6hEj0Wr7uiKT/0E6k0F\nut83h3/w+qI4NooJS7Ay2qdvSs63ylqtzeXbY2WvtdWsVoyegGUlvmewkEhl8QEY\nTUt6hqAIzfhqkbYAnEUdJhqCeg0HIlcfDpiIZtRUFt8rq2s2k+Eig+tbYjtzJNiZ\nOuX/hm/l6BIsMDPx0Elf93MJmQq6Y58YgvXROsP2bmP+CKsdcU8i/fyk30lwDQ+O\nojWdyZpoutGQABEN7BYAFIvrXJUIJKucwIfL12AicFKrkxVVLJRL1PwXNhmVx99s\nbYRQPesUOdW5MUA/9a6TtjH+c6CMGiUQDqggN2gz9QKBgQC8m6Gs6Age5I0V9Kss\nOELvrlJ9KgKMG99uFPY7xaky1Aij4eRBr5ygb8M5uwtlLz3yBj+WX2iwmj5Ohhx+\nsc4uPjHyBySomecyhDPXG7BboEngVYnRa5gPN1dxR5T3zhqXFX8TYtcpQgZ2JflB\n4AG4uqtkMPIILCGq8Dm4y38v8wKBgQC5d6bFd0fAruhny43Db37PbMZGjF4WPJ8T\npL6+9k5rRHI/karRpi6k/cWVkg2vSMNDl26AquFEZv+SOzwekKNUtLQXZ4Hg+wz/\nHCjZV5/L1MhCg6J1lH2ccLWXJgOL40RiGzq01onK3hHrjFMoKOUGyDqEyW2f7WMo\n1qc51O9ozQKBgD/Ps/KJCn5ROz6raeJrIpJu+y+nr/bxUzWuV+S/KlCtFkNEIPLs\nVGSfi4CTvPY99opU/NyGaSge92efzjI7PBO/LSzCp+93KpaXzeZAUvmdEIGazycQ\nbQDw61/DJS52B98IAddwQHWQBhmhHWThQhPa7DPYr3p+W+G2pwDTsLNrAoGBAJbX\nBm7xXQ0L8/5+4dRCONuQdw3nmZnyQdqjEXOUNSEusNCcs1YBF0yfDHRiLfkSb6To\nYzoIQF/2eQNAY9vj/MKmmRWz3EDTTbWp/FsP1encK+dU0etZEnQKgtXkV9wMwZAc\n3zk2hyjURbTSEsvFvscuT9GxVRRN6GjNc4IoeXI9AoGAZTK7fhfkWVBcDRE/eQxP\n5zuLe1LeqZm48jAB9pL4Nu9xjehJsyam6FGbmY7B/cTdXW0LmSLUVNlpgw4rANOf\nHSc9a3QMqIgWk9Q8PL0zcqhiibRq2+381UsdjXUljYiRucnULTwfdOiDRnidyIn/\n/7O8nPml8bgSo7bQufmTJL0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sonos-flow@appspot.gserviceaccount.com",
+  "client_id": "110944626435429331310",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sonos-flow%40appspot.gserviceaccount.com"
+}
